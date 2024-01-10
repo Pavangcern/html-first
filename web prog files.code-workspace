@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "web prog files",
+			"path": "../../.."
+		},
+		{
+			"name": "htmlfiles",
+			"path": "../.."
+		},
+		{
+			"name": "002 4.1-Webpages",
+			"path": "../../../002 4.1-Webpages"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
